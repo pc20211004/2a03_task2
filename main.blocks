@@ -1,0 +1,79 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="^r#FG0]nstm=M7/nqFk=" x="0" y="0"></block><block type="device_forever" id="@ujnPZi(**]f@$:Bz@/9" x="205" y="0"></block><block type="device_print_message" id="rCwZ`rQ|Kxqj?FZ.o.)P" disabled="true" x="707" y="120"><value name="text"><shadow type="text" id="A+k*@+nO{t_~T~LEaz:L" disabled="true"><field name="TEXT">Growing heart</field></shadow></value></block><block type="device_button_event" id="1BCAC;*Nt8yE/{EJ~zfK" x="700" y="179"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="6Iy4WD8}h/*AqReclp{t"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="%.^[ocqElWIwt(rde*vX"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . # 
+        . . . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="~=u73O/=^G.4(/+i{NWj"><field name="LEDS">`
+        . . . . . 
+        . . . . # 
+        . . . # # 
+        . . # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="6BJT[46S%hMvh/Hl`@3d"><field name="LEDS">`
+        . . . . . 
+        . . . # # 
+        . . # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="{W_6,lW0{OM#@Lt_MQ15"><field name="LEDS">`
+        . . . # . 
+        . . # # # 
+        . . # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="i;Q`h2V=2n~8BzyzAzLX"><field name="LEDS">`
+        . . . # . 
+        . # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="{4k?R/p_DTZ6}}+OX4(D"><field name="LEDS">`
+        . # . # . 
+        # # # # # 
+        # # # # # 
+        . # # # . 
+        . . # . .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="]]qNfstciYP.oqWJfhp7" x="345" y="217"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_while" id="8`=QMe2e1yBb/6Uw)6S("><value name="COND"><shadow type="logic_boolean" id="Fwd@vMI?|p~Ees%36jVO"><field name="BOOL">FALSE</field></shadow></value><statement name="DO"><block type="device_show_leds" id="C$~4!9AdHuN,p}h~:rh+"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="EUX|nCRT5J#`Dh##YCv)"><field name="LEDS">`
+        . . . . . 
+        . . # . . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="`ty}o[j/2Q4NI-nf^b}D"><field name="LEDS">`
+        . . # . . 
+        . # . # . 
+        # . . . # 
+        . # . # . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="MiM;Da7xjE-2-_[8*h#-"><field name="LEDS">`
+        . # . # . 
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="W]I*|B6P?.jD}e{uS}el"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="Dm)5M!8PsC7f#`5Iz:15"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="GLHY*;S,_H=s@1d,e`9+"><value name="pause"><shadow type="timePicker" id="n2$xzAr,.+9N}I%FP]?w"><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></statement></block><block type="device_print_message" id="@0VZl3.1l?q*-sXl$6w!" disabled="true" x="-116" y="309"><value name="text"><shadow type="text" id="_:TdFH?vE1Cj/*UO~+vr" disabled="true"><field name="TEXT">2A03 Chan Tsz Hyun</field></shadow></value></block></xml>
